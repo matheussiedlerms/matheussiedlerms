@@ -1,3 +1,5 @@
+<img align="center" alt="Imagem de Fundo do README. Uma pixel art relacionada a hacking e coding, ou seja, áreas de TI." src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+
 <h2 align="center">
 Olá, eu sou o Matheus Siedler! 🇧🇷
 </h2>
